@@ -33,7 +33,6 @@ Since I am not using a custom PCB for this **prototip**, the wiring is quite sim
 
 **Wiring Diagram:**
 
-  * **USB-C Female Port (VCC/GND)** -\> **Motor Controller Input**
-  * **Motor Controller Output** -\> **JGY370 DC Motor**
+  * **USB-C Female Port (VCC/GND)** -\> **JGY370 DC Motor**
 
 \<img width="800" height="592" alt="Motor Details" src="[https://github.com/user-attachments/assets/8f45e42b-fa23-4571-81fb-4f0e3ff19049](https://github.com/user-attachments/assets/8f45e42b-fa23-4571-81fb-4f0e3ff19049)" /\>
