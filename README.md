@@ -39,5 +39,11 @@ Since I am not using a custom PCB for this **prototip**, the wiring is quite sim
 **Wiring Diagram:**
 
   * **USB-C Female Port (VCC/GND)** -\> **JGY370 DC Motor**
-<img width="800" height="592" alt="Screenshot 2026-04-06 at 20-52-28 Bringsmart JGY370 Schneckengetriebemotor DC 12 V 8 mm D7-Wellen-Getriebe Reduzierstück individuelle Selbstverriegelung Rückwärtsgang Länge 25 mm niedrige Geschwindigkeit - AliExpress 13" src="https://github.com/user-attachments/assets/c7e03523-c4d7-4c5b-94c2-19bb15dfc448" />
+<img width="1183" height="347" alt="grafik" src="https://github.com/user-attachments/assets/8c3437a5-2d9c-4207-9358-ce7ca77903cc" />
+
+
+## Food Safety & Epoxy Coating
+
+Standard 3D prints are generaly not food safe because "layer lines" act as tiny traps for bakteria and some filaments contain toxic chemicals. To fix this, I am coating the inside of the container and the spinner with food-grade epoxy. This seals the surface, making it smooth, non-porous, and safe for ice cream production.
+
 
